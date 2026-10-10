@@ -1,0 +1,36 @@
+# NetBeans
+build/
+dist/
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbbuild/
+nbdist/
+.nb-gradle/
+.cache/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Dependências (se usar Maven, a pasta target/)
+target/
